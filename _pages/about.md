@@ -19,21 +19,19 @@ I hold a Ph.D. degree in Information and Communication Engineering.
 
 My research interests primarily focus on the following areas:
 
-### 1. Computer Vision
-- **Low-level Vision Tasks**: Image enhancement and related techniques
-- **High-level Vision Tasks**: Object detection and recognition
+### 1. Computer Vision In IoVT
 - **Industrial Applications**: Integration of deep learning algorithms with edge computing for intelligent systems in UAV inspection and other industrial scenarios
 
-### 2. Multimodal Learning
-- Multimodal Alignment
-
-### 3. Large Models
-- Multimodal Chain-of-Thought (CoT)
-- Hallucination in Multimodal Large Language Models (MLLM)
-
-### 4. Distributed Computing
+### 2. Distributed Computing
 - Distributed inference based on edge computing and cloud-edge-terminal collaborative computing
 - Federated Learning
+
+### 3. Multimodal Learning
+- Multimodal Alignment
+
+### 4. Large Models
+- Multimodal Chain-of-Thought (CoT)
+- Hallucination in Multimodal Large Language Models (MLLM)
 
 ## Education
 
@@ -65,3 +63,4 @@ My research interests primarily focus on the following areas:
 - 🏆 **2025**: Outstanding Graduate of Beijing (School-level, sole recipient)
 - 🏆 **2024**: National Scholarship (School-level, ranked 1st)
 - 📝 **2024**: Paper published in IEEE Transactions on Mobile Computing (CAS Q1, CCF A)
+
