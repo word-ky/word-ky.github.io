@@ -11,7 +11,8 @@ redirect_from:
 
 I am **Jiaqi Wu (吴佳奇)**, currently a Postdoctoral Researcher at the CIMS Institute, Department of Automation, Tsinghua University, working under the supervision of **[Associate Professor Gao Huang](https://gaohuang-net.github.io/)** (expert in Dynamic Neural Networks and author of the DenseNet).
 
-I received my Master's degree from the School of Mechanical, Electronic and Information Engineering, China University of Mining and Technology (Beijing) in 2019. In 2021, I transitioned to a direct Ph.D. program at the School of Artificial Intelligence under the supervision of **Professor Zijian Tian**. In 2024, I was awarded the China Scholarship Council (CSC) scholarship to conduct research as a visiting scholar at the Department of Electrical and Computer Engineering, University of British Columbia (UBC), where I joined **Professor Victor C.M. Leung's** research group (Fellow of the Royal Society of Canada, Fellow of the Canadian Academy of Engineering, IEEE Life Fellow) under the co-supervision of **Professor Zehua Wang**.
+I received my Master's degree from the School of Mechanical, Electronic and Information Engineering, China University of Mining and Technology (Beijing) in 2019. In 2021, I transitioned to a direct Ph.D. program at the School of Artificial Intelligence under the supervision of **Professor Zijian Tian**. In 2024, I was awarded the China Scholarship Council (CSC) scholarship to conduct research as a visiting scholar at the Department of Electrical and Computer Engineering, University of British Columbia (UBC), where I joined **[Professor Victor C.M. Leung's](https://people.ece.ubc.ca/~vleung/)** research group (Fellow of the Royal Society of Canada, Fellow of the Canadian Academy of Engineering, IEEE Life Fellow) under the co-supervision of 
+**[Professor Zehua Wang](https://people.ece.ubc.ca/~zwang/)**.
 
 I hold a Ph.D. degree in Information and Communication Engineering.
 
@@ -63,5 +64,6 @@ My research interests primarily focus on the following areas:
 - 🏆 **2025**: Outstanding Graduate of Beijing (School-level, sole recipient)
 - 🏆 **2024**: National Scholarship (School-level, ranked 1st)
 - 📝 **2024**: Paper published in IEEE Transactions on Mobile Computing (CAS Q1, CCF A)
+
 
 
