@@ -50,7 +50,7 @@ My research interests primarily focus on the following areas:
 
 ## Academic Service
 
-- **Journal Reviewer**: IEEE Transactions on Multimedia (TMM), IEEE Transactions on Industrial Informatics (TII), Measurement, IEEE Internet of Things Journal (IOTJ), Computer Communications (COMCOM), and other international journals
+- **Journal Reviewer**: IEEE Transactions on Mobile Computing (TMC), IEEE Transactions on Multimedia (TMM), IEEE Transactions on Industrial Informatics (TII), Measurement, IEEE Internet of Things Journal (IOTJ), Computer Communications (COMCOM), and other international journals
 - **Student Leadership**: Class President of 2021 Ph.D. cohort, School of Artificial Intelligence; Member of University Academic Affairs Council
 - **Volunteer Service**: Outstanding Student Volunteer for COVID-19 Prevention (District Level)
 
@@ -64,6 +64,7 @@ My research interests primarily focus on the following areas:
 - 🏆 **2025**: Outstanding Graduate of Beijing (School-level, sole recipient)
 - 🏆 **2024**: National Scholarship (School-level, ranked 1st)
 - 📝 **2024**: Paper published in IEEE Transactions on Mobile Computing (CAS Q1, CCF A)
+
 
 
 
