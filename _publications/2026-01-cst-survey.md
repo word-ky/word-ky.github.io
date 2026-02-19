@@ -16,7 +16,8 @@ This paper presents a comprehensive and systematic survey on cloud-edge-terminal
 
 **Status**: Under Review (second round)
 
-**Authors**: Jiaqi Wu, Shihao Zhang, et al.
+**Authors**: Jiaqi Wu, Jing Liu, et al.
+
 
 
 
