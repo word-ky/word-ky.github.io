@@ -14,7 +14,8 @@ This paper presents a comprehensive and systematic survey on cloud-edge-terminal
 
 **Journal Ranking**: CAS Q1, Top-tier journal in communications, Impact Factor: 34.4
 
-**Status**: Under Review
+**Status**: Under Review (second round)
 
 **Authors**: Jiaqi Wu, Shihao Zhang, et al.
+
 
