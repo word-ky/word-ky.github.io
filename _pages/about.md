@@ -14,6 +14,8 @@ I am **Jiaqi Wu (吴佳奇)**, currently a [**Postdoctoral Researcher**](https:/
 I received my Master's degree from the School of Mechanical, Electronic and Information Engineering, China University of Mining and Technology (Beijing) in 2019. In 2021, I transitioned to a direct Ph.D. program at the School of Artificial Intelligence under the supervision of **[Professor Zijian Tian](https://ai.cumtb.edu.cn/en/info/1115/1331.htm)**. In 2024, I was awarded the China Scholarship Council (CSC) scholarship to conduct research as a visiting scholar at the Department of Electrical and Computer Engineering, University of British Columbia (UBC), where I joined **[Professor Victor C.M. Leung's](https://people.ece.ubc.ca/~vleung/)** research group (Fellow of the Royal Society of Canada, Fellow of the Canadian Academy of Engineering, IEEE Life Fellow) under the co-supervision of 
 **[Professor Zehua Wang](https://people.ece.ubc.ca/~zwang/)**.
 
+**As first or corresponding author, I have published 14 top-tier papers**: 4 CCF-A papers, 6 CAS Q1 and CCF-B papers, 1 CAS Q2 paper, and 3 papers in EI-indexed Leading Journals under the Excellence Action Plan for China STM Journals. **National invention patent:** 1. **Papers under review:** 2 CCF-A papers.
+
 I hold a Ph.D. degree in Information and Communication Engineering.
 
 ## Research Interests
