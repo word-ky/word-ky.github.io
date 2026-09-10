@@ -3,7 +3,7 @@ title: "Efficient Detection Framework Adaptation for Edge Computing: A Plug-and-
 collection: publications
 permalink: /publication/2026-tmc-efficient-detection
 excerpt: 'This paper proposes an efficient detection framework adaptation method for edge computing with a plug-and-play neural network toolbox.'
-date: 2024-12-12
+date: 2025-12-12
 venue: 'IEEE Transactions on Mobile Computing'
 citation: 'Jiaqi Wu, Shihao Zhang, et al. (2024). &quot;Efficient Detection Framework Adaptation for Edge Computing: A Plug-and-play Neural Network Toolbox Enabling Edge Deployment.&quot; <i>IEEE Transactions on Mobile Computing</i>. (CAS Q1, CCF A)'
 ---
@@ -15,4 +15,3 @@ This paper proposes an efficient detection framework adaptation method for edge 
 **Journal Ranking**: CAS Q1, CCF A
 
 **Authors**: Jiaqi Wu, Shihao Zhang, et al.
-
