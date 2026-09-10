@@ -39,9 +39,11 @@ Honors and Awards
 
 Research Projects
 ======
-* **National Natural Science Foundation of China Joint Fund Project**
-  * Project: Multi-UAV Collaborative Cross-Scene Multimodal Object Detection and Tracking Technology Research
-  * Role: Participant
+* **Underwater Weak-Target Recognition via Fusion of Sonar Data and Physical Priors**
+  * National Natural Science Foundation of China, **2026 Young Scientists Fund Project**
+* **Object Perception in Degraded Underground Coal-Mine Scenarios Based on Distributed Edge Intelligence**
+  * 2026 Jointly Funded Special Support Project of the China Postdoctoral Science Foundation and China Coal Technology and Engineering Group
+  * **56 awardees nationwide; only 2 projects funded in this sub-area**
   
 Research Interests
 ======
@@ -52,8 +54,7 @@ Research Interests
 * **Multimodal Learning**
   * Multimodal Alignment
 * **Large Models**
-  * Multimodal Chain-of-Thought (CoT)
-  * Hallucination in Multimodal Large Language Models (MLLM)
+  * LLM Grounding
 * **Distributed Computing**
   * Distributed inference based on edge computing and cloud-edge-terminal collaborative computing
   * Federated Learning
@@ -66,7 +67,10 @@ Publications
   
 Academic Service
 ======
+* **Special Session Leadership**
+  * Chairman and organizer of the ICASSP 2027 Special Session, **“Distributed Multimodal Signal Understanding with Foundation Models”**
 * **Journal Reviewer**
+  * IEEE Transactions on Mobile Computing (TMC)
   * IEEE Transactions on Multimedia (TMM)
   * IEEE Transactions on Industrial Informatics (TII)
   * Measurement
