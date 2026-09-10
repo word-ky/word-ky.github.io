@@ -3,7 +3,7 @@ title: "A Survey on Cloud-Edge-Terminal Collaborative Intelligence in AIoT Netwo
 collection: publications
 permalink: /publication/2026-cst-survey
 excerpt: 'This paper presents a comprehensive survey on cloud-edge-terminal collaborative intelligence in AIoT networks.'
-date: 2024-12-13
+date: 2025-12-13
 venue: 'IEEE Communications Surveys and Tutorials (Minor Revision - 2nd round)'
 citation: 'Jiaqi Wu, Jing Liu, et al. &quot;A Survey on Cloud-Edge-Terminal Collaborative Intelligence in AIoT Networks.&quot; <i>IEEE Communications Surveys and Tutorials</i>. (Minor Revision - 2nd round, CAS Q1, IF: 50.6)'
 ---
