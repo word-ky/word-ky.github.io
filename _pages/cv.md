@@ -19,7 +19,7 @@ Department of Automation, Tsinghua University, Beijing, China
 
 I study **multimodal perception and distributed edge intelligence**, with an emphasis on reliable visual understanding in challenging environments and efficient learning and inference on resource-constrained devices. My work connects vision-language models, image enhancement and object detection with federated learning and cloud–edge–terminal collaboration.
 
-I am the **principal investigator of two competitively awarded projects**: a **2026 NSFC Young Scientists Fund (Category C) project** and a **2026 CPSF–CCTEG Joint Special Funding project**. My publication record includes **15 published or accepted papers**. Representative contributions include a **first-author survey accepted by IEEE Communications Surveys & Tutorials**, first-author papers in IEEE Transactions on Mobile Computing, IEEE Transactions on Multimedia and ICCV, and a **corresponding-author paper at CVPR 2026**. I serve as **Leader Chair of an ICASSP 2027 Special Session**.
+I am the **principal investigator of two competitively awarded projects**: a **2026 NSFC Young Scientists Fund (Category C) project** and a **2026 CPSF–CCTEG Joint Special Funding project**. My publication record includes **15 published or accepted papers**. Representative contributions include a **first-author survey accepted by IEEE Communications Surveys & Tutorials**, first-author papers in IEEE Transactions on Mobile Computing, IEEE Transactions on Multimedia and ICCV, and a **corresponding-author paper at CVPR 2026**. I serve as **Leader Area Chair of an ICASSP 2027 Special Session**.
 
 ## Research Interests
 
@@ -38,7 +38,6 @@ Research group: [Gao Huang](https://gaohuang-net.github.io/), [LEAP Lab](https:/
 - **Ph.D. in Information and Communication Engineering**, School of Artificial Intelligence, China University of Mining and Technology (Beijing). Supervisor: **Zijian Tian**. Entered the combined master's–Ph.D. track in **2021**.
 - **CSC-supported joint doctoral research**, Department of Electrical and Computer Engineering, University of British Columbia, Canada. Research mentors: **Victor C. M. Leung** and **Zehua Wang**.
 - **Graduate study, master's stage, 2019–2021**, China University of Mining and Technology (Beijing), followed by transition to doctoral study.
-- **Undergraduate education, completed in 2019**, Qufu Normal University, China.
 
 ## Research Projects as Principal Investigator / Project Lead
 
@@ -56,7 +55,7 @@ Funders: **China Postdoctoral Science Foundation** and **China Coal Technology a
 Role: **Principal Investigator**. Grant No. **2026T038ZGMK**.  
 Research focus: robust target perception in degraded underground environments through distributed edge intelligence.
 
-The official second-batch list includes **54 recipients nationwide**. I am the **sole recipient listed under Research Direction 31**, “Intelligent Coal–Rock Recognition Based on Multi-Source Information Coupling.” [Official award list](https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260923/0a8ab866-f900-4613-958d-8f173abb182c.pdf)
+The official second-batch list includes **54 recipients nationwide**. I am the **sole recipient listed under Research Direction 31**, “Intelligent Coal–Rock Recognition Based on Multi-Source Information Coupling.”
 
 ### Outstanding Doctoral Innovation Talent Program, 2024
 
@@ -93,7 +92,7 @@ The survey organizes cloud–edge–terminal intelligence around system architec
 
 **Special Session Leadership**
 
-- **Leader Chair**, **ICASSP 2027**, Special Session **“Distributed Multimodal Signal Understanding with Foundation Models.”**
+- **Leader Area Chair**, **ICASSP 2027**, Special Session **“Distributed Multimodal Signal Understanding with Foundation Models.”**
 
 **Journal Reviewing**
 
