@@ -2,19 +2,22 @@
 title: "A Survey on Cloud-Edge-Terminal Collaborative Intelligence in AIoT Networks"
 collection: publications
 permalink: /publication/2026-cst-survey
-excerpt: 'This paper presents a comprehensive survey on cloud-edge-terminal collaborative intelligence in AIoT networks.'
-date: 2025-12-13
+excerpt: 'A first-author survey of cloud–edge–terminal collaborative intelligence for AIoT, accepted by IEEE Communications Surveys & Tutorials.'
+# This date anchors the entry to the verified university announcement, not the journal publication date.
+date: 2026-11-11
 prepublication: true
-venue: 'IEEE Communications Surveys and Tutorials (<strong>Minor Revision - 2nd round</strong>)'
-citation: 'Jiaqi Wu, Jing Liu, et al. &quot;A Survey on Cloud-Edge-Terminal Collaborative Intelligence in AIoT Networks.&quot; <i>IEEE Communications Surveys and Tutorials</i>. (<strong>Minor Revision - 2nd round</strong>, CAS Q1, IF: 50.6)'
+venue: 'IEEE Communications Surveys &amp; Tutorials (<strong>Accepted for publication</strong>)'
+paperurl: 'https://arxiv.org/abs/2508.18803'
+citation: 'Jiaqi Wu, Jing Liu, Yang Liu, Lixu Wang, Zehua Wang, Wei Chen, Zijian Tian, Richard Yu, and Victor C. M. Leung. &quot;A Survey on Cloud-Edge-Terminal Collaborative Intelligence in AIoT Networks.&quot; <i>IEEE Communications Surveys &amp; Tutorials</i>, <strong>accepted for publication</strong>, 2026. DOI: <a href="https://doi.org/10.1109/COMST.2026.3752275">10.1109/COMST.2026.3752275</a>.'
 ---
 
-This paper presents a comprehensive and systematic survey on cloud-edge-terminal collaborative intelligence technologies in Artificial Intelligence of Things (AIoT), analyzing the current research status, key technologies, and future development trends.
+**Status:** Accepted for publication in **IEEE Communications Surveys & Tutorials**.  
+**Author role:** Jiaqi Wu is the first author.
 
-**Keywords**: Cloud-Edge-Terminal Collaboration, Edge Computing, AIoT, Survey
+This survey examines how cloud, edge, and terminal devices can jointly support intelligent AIoT services. It connects system architectures with resource management, collaborative learning, data management and communication, and security and privacy, and discusses open challenges in scalable and heterogeneous collaborative systems.
 
-**Journal Ranking**: CAS Q1, Top-tier journal in communications, Impact Factor: 50.6
+**Authors:** **Jiaqi Wu**, Jing Liu, Yang Liu, Lixu Wang, Zehua Wang, Wei Chen, Zijian Tian, Richard Yu, and Victor C. M. Leung.
 
-**Status**: **Minor Revision - 2nd round**
+**Keywords:** Cloud–Edge–Terminal Collaborative Intelligence; Edge Computing; Distributed Learning; AIoT; Survey.
 
-**Authors**: Jiaqi Wu, Jing Liu, et al.
+[Paper on arXiv](https://arxiv.org/abs/2508.18803) · [Journal DOI](https://doi.org/10.1109/COMST.2026.3752275) · [University news](https://ai.cumtb.edu.cn/info/1593/6275.htm)
