@@ -120,7 +120,5 @@ The survey organizes cloud–edge–terminal intelligence around system architec
 ## Additional Service
 
 - Class President, 2021 doctoral cohort, School of Artificial Intelligence, China University of Mining and Technology (Beijing).
-- Member, University Academic Affairs Council.
-- Outstanding Student Volunteer for COVID-19 Prevention, district-level recognition.
 
 *Last updated: November 26, 2026.*
